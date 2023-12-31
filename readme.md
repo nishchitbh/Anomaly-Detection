@@ -53,15 +53,3 @@ The script follows these steps:
 ## Notes
 
 Refer to the `Notes` folder for more detailed documentation on the anomaly detection method, including theoretical explanations and considerations.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use the code according to your needs.
-
-## Acknowledgments
-
-- Mention any contributors or resources that inspired or helped in developing this code.
-
----
-
-Feel free to customize this README according to your specific needs and preferences.
