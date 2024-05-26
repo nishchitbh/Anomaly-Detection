@@ -70,4 +70,4 @@ In building an anomaly detection algorithm, we aim to identify anomalies in a da
 
 ## Next Steps
 
-In the next video, we'll explore parameter tuning, choosing an appropriate \(\epsilon\), and refining the anomaly detection system for optimal performance.
+In the next pdf, we'll explore parameter tuning, choosing an appropriate \(\epsilon\), and refining the anomaly detection system for optimal performance.

@@ -54,4 +54,4 @@
 
 - **Multivariate Gaussian Distribution:** Utilize a multivariate Gaussian distribution to model the joint probability of multiple features. The extension involves using a covariance matrix in addition to Mu and Sigma.
 
-- **Next Steps:** The next video will explore the application of Gaussian distribution to more sophisticated anomaly detection algorithms, considering scenarios with multiple features.
+- **Next Steps:** The next pdf will explore the application of Gaussian distribution to more sophisticated anomaly detection algorithms, considering scenarios with multiple features.

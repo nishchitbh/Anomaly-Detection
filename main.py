@@ -36,12 +36,12 @@ ax1.legend()
 
 fig2, ax2 = plt.subplots()
 ax2.set_title("Histogram of xs")
-ax2.hist(xs)
+ax2.hist(xs, bins=25)
 
 
 fig3, ax3 = plt.subplots()
 ax3.set_title("Histogram of ys")
-ax3.hist(ys)
+ax3.hist(ys, bins=25)
 
 
 plt.show()
