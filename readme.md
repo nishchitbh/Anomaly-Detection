@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple anomaly detection script implemented in Python. The main functionality is encapsulated in the `main.py` file. The script uses Gaussian distribution to detect anomalies in a given dataset. Additionally, there is a folder named `Notes` which includes Markdown and PDF notes providing further insights into anomaly detection.
+This repository contains a simple anomaly detection script implemented in Python. The main functionality is encapsulated in the `main.py` file. The script uses Gaussian distribution to detect anomalies in a given dataset. Additionally, there is a folder named `Notes` which includes Markdown and PDF notes providing further insights into anomaly detection. This implementation and notes are based on the course `Unsupervised Learning, Recommenders, and Reinforcement Learning` of specialization `Machine Learning Specialization` by `Deeplearning.ai`.
 
 ## Usage
 
